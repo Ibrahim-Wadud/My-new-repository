@@ -1,0 +1,1 @@
+console.log("Hello, my name is Ibrahim Wadud, I am 24 years old, and my favorite programming language is python.");
